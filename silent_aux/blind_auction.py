@@ -1,3 +1,4 @@
+#!/bin/python3
 import os
 from art import new_logo
 # how to clear the screen on windows and nix
